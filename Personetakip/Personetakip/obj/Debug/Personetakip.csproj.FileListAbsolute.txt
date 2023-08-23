@@ -1,0 +1,11 @@
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\bin\Debug\Personetakip.exe.config
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\bin\Debug\Personetakip.exe
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\bin\Debug\Personetakip.pdb
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\obj\Debug\Personetakip.csproj.AssemblyReference.cache
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\obj\Debug\Personetakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\obj\Debug\Personetakip.Form1.resources
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\obj\Debug\Personetakip.Properties.Resources.resources
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\obj\Debug\Personetakip.csproj.GenerateResource.cache
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\obj\Debug\Personetakip.csproj.CoreCompileInputs.cache
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\obj\Debug\Personetakip.exe
+C:\Users\HALİL\Desktop\ahmet\Personetakip\Personetakip\obj\Debug\Personetakip.pdb
