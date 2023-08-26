@@ -1,0 +1,13 @@
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\bin\Debug\Fabrika_otomasyon1.exe.config
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\bin\Debug\Fabrika_otomasyon1.exe
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\bin\Debug\Fabrika_otomasyon1.pdb
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.csproj.AssemblyReference.cache
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.Depo.resources
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.Properties.Resources.resources
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.csproj.GenerateResource.cache
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.csproj.CoreCompileInputs.cache
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.exe
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.pdb
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.Uretim.resources
+C:\Users\HALİL\Desktop\ahmet\Fabrika_otomasyon1\Fabrika_otomasyon1\obj\Debug\Fabrika_otomasyon1.Anasayfa.resources
